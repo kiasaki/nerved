@@ -20,6 +20,10 @@ run using `make`
 
 build a mac osx `.app` using `make build`
 
+### screenshot
+
+![](./support/screen.png)
+
 ### tips
 
 escape sequences / coloring is stripped from commands output so you should be able to use any cli tool you are used to, just none of the ones that require input/stdin
